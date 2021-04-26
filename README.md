@@ -2,4 +2,12 @@
 
 This is a repository that contains UI screens developed in React Native to mimic Airbnb home rental app.
 
-![OnBoardingScreen](src/assets/house1.jpg)
+### OnBoardingScreen
+![OnBoardingScreen](src/assets/OnBoarding.png)
+
+### HomeScreen
+
+![HomeScreen](src/assets/HomeScreen.png)
+
+### DetailsScreen
+![DetailsScreen](src/assets/DetailsScreen.png)
